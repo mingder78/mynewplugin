@@ -3,6 +3,7 @@
   "description": "A new CLI generated with oclif",
   "version": "0.0.1",
   "author": "mingder78",
+  "priavte": true,
   "bin": {
     "mynewplugin": "./bin/run.js"
   },
